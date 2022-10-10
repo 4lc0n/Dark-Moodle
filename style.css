@@ -67,6 +67,18 @@ a.popover-region-toggle:focus,p.message,.fp-filename,.list-group-item-action,.dr
 #region-main{
     border:none!important
 }
+#nav-drawer{
+    background-color:#292929!important
+}
+#wuerfel_leiste{
+    background-color:#343a40!important
+}
+#action-menu-toggle-1{
+    background-color:#343a40!important
+}
+.region_main_settings_menu_proxy{
+    background-color: #343a40;
+}
 .card-deck{
     border-radius:5px;
     padding-top:8px
@@ -173,3 +185,4 @@ footer::after{
 ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner, ::-webkit-scrollbar-track:hover, ::-webkit-scrollbar-track:active {
   background: #333;
 }
+
